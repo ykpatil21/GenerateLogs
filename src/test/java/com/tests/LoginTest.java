@@ -41,7 +41,10 @@ public class LoginTest {
 		System.out.println(title);
 		Assert.assertEquals(title,"#1 Free CRM customer relationship management software cloud");
 	}
-	
+	@Test
+	public void freecrmtitle1(){
+		
+	}
 	
 	
 	
