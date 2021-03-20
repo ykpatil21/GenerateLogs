@@ -45,7 +45,10 @@ public class LoginTest {
 	public void freecrmtitle1(){
 		
 	}
-	
+	@Test
+	public void freecrmlogotest(){
+		
+	}
 	
 	
 	@AfterMethod
